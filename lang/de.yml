@@ -1,0 +1,11 @@
+de:
+  Mollom:
+    KEYEXISTS: Ihr Schlüssel existiert und funktioniert.
+    KEYSTATUS: Mollom Key Status
+    KEYWRONG: Ihr Schlüssel ist nicht zulässig. Bitte versuche Sie einen anderen Schlüssel.
+    NOKEY: Sie haben den Schlüssel noch nicht konfiguriert. Bitte fügen Sie ihn unter mysite/_config.php hinzu.
+    TERMS: Allegmeine Geschäftsbedingungen ansehen
+  MollomCaptchaField:
+    CAPTCHAREQUESTED: Bitte tragen Sie die Captch-Zeichen in das Feld ein.
+    INCORRECTSOLUTION: Sie haben nicht den richtigen Texteingegben. Bitte versuchen Sie es erneut.
+    SPAM: Ihr Eintrag wurde nicht aktzeptiert, da es sich um Spam handeln könnte.
